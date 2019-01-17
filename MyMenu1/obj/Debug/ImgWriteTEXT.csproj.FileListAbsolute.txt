@@ -1,0 +1,11 @@
+C:\Users\esseo\Documents\Visual Studio 2012\Projects\MyMenu1\MyMenu1\bin\Debug\MyMenu1.exe.config
+C:\Users\esseo\Documents\Visual Studio 2012\Projects\MyMenu1\MyMenu1\bin\Debug\MyMenu1.exe
+C:\Users\esseo\Documents\Visual Studio 2012\Projects\MyMenu1\MyMenu1\bin\Debug\MyMenu1.pdb
+C:\Users\esseo\Documents\Visual Studio 2012\Projects\MyMenu1\MyMenu1\bin\Debug\UC_ImageBox.dll
+C:\Users\esseo\Documents\Visual Studio 2012\Projects\MyMenu1\MyMenu1\bin\Debug\UC_ImageBox.pdb
+C:\Users\esseo\Documents\Visual Studio 2012\Projects\MyMenu1\MyMenu1\obj\Debug\ImgWriteTEXT.csprojResolveAssemblyReference.cache
+C:\Users\esseo\Documents\Visual Studio 2012\Projects\MyMenu1\MyMenu1\obj\Debug\ImageToWriteTEXT.ImageToWriteTEXT.resources
+C:\Users\esseo\Documents\Visual Studio 2012\Projects\MyMenu1\MyMenu1\obj\Debug\ImageToWriteTEXT.Properties.Resources.resources
+C:\Users\esseo\Documents\Visual Studio 2012\Projects\MyMenu1\MyMenu1\obj\Debug\ImgWriteTEXT.csproj.GenerateResource.Cache
+C:\Users\esseo\Documents\Visual Studio 2012\Projects\MyMenu1\MyMenu1\obj\Debug\MyMenu1.exe
+C:\Users\esseo\Documents\Visual Studio 2012\Projects\MyMenu1\MyMenu1\obj\Debug\MyMenu1.pdb

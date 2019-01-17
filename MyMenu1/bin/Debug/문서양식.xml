@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DrawInfo>
+  <ImageFileInfo FilePath="C:\Users\esseo\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\문서양식.jpg" />
+  <DrawObjInfo Name="txt_item" Left="143" Top="316.124637681159" Width="493" Height="19" BorderWidth="4" BorderColor="255,173,216,230" PopupMode="0" />
+  <DrawObjInfo Name="txt_user" Left="141" Top="348.124637681159" Width="510" Height="20" BorderWidth="4" BorderColor="255,173,216,230" PopupMode="0" />
+  <DrawObjInfo Name="txt_mold" Left="21" Top="443.611594202899" Width="619" Height="22" BorderWidth="4" BorderColor="255,173,216,230" PopupMode="0" />
+  <DrawObjInfo Name="txt_etc" Left="21" Top="467.611594202899" Width="619" Height="100" BorderWidth="4" BorderColor="255,173,216,230" PopupMode="0" />
+</DrawInfo>
